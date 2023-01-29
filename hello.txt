@@ -1,6 +1,7 @@
 hello git!hello duke!hello atguigu!! v3.0.0
 hello git!hello duke!hello atguigu!! hot-fix:v3.0.0
 hello git!hello duke!hello atguigu!! master
+hello git!hello duke!hello atguigu!! hot-fix
 hello git!hello duke!hello atguigu!!
 hello git!hello duke!hello atguigu!!
 hello git!hello duke!hello atguigu!!
