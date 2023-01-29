@@ -6,7 +6,7 @@ hello git!hello duke!hello atguigu!! git-hub:alter
 hello git!hello duke!hello atguigu!! lhc:alter!
 hello git!hello duke!hello atguigu!! duke9646:alter!
 hello git!hello duke!hello atguigu!! duke3477:alter!
-hello git!hello duke!hello atguigu!!
+hello git!hello duke!hello atguigu!! duke6611:alter from local repository!
 hello git!hello duke!hello atguigu!!
 hello git!hello duke!hello atguigu!!
 hello git!hello duke!hello atguigu!!
